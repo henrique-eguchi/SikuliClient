@@ -1,0 +1,10 @@
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\Starter\bin\Debug\Starter.exe.config
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\Starter\bin\Debug\Starter.exe
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\Starter\bin\Debug\Starter.pdb
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\Starter\bin\Debug\NETSikuliClient.dll
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\Starter\bin\Debug\Newtonsoft.Json.dll
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\Starter\bin\Debug\NETSikuliClient.pdb
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\Starter\bin\Debug\Newtonsoft.Json.xml
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\Starter\obj\Debug\Starter.csprojResolveAssemblyReference.cache
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\Starter\obj\Debug\Starter.exe
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\Starter\obj\Debug\Starter.pdb

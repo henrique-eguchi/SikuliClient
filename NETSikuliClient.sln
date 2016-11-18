@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETSikuliClient", "NETSikuliClient\NETSikuliClient.csproj", "{77ABFEEC-B4CD-43A5-9D7F-D9C7A281CFC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NETSikuliClientTests", "NETSikuliClientTests\NETSikuliClientTests.csproj", "{34362AB6-37C8-432F-A622-A3A554CBC031}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Starter", "Starter\Starter.csproj", "{BCA658E4-A1A3-4AC9-8D6F-3AC9082D10FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77ABFEEC-B4CD-43A5-9D7F-D9C7A281CFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77ABFEEC-B4CD-43A5-9D7F-D9C7A281CFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77ABFEEC-B4CD-43A5-9D7F-D9C7A281CFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77ABFEEC-B4CD-43A5-9D7F-D9C7A281CFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34362AB6-37C8-432F-A622-A3A554CBC031}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34362AB6-37C8-432F-A622-A3A554CBC031}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34362AB6-37C8-432F-A622-A3A554CBC031}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34362AB6-37C8-432F-A622-A3A554CBC031}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCA658E4-A1A3-4AC9-8D6F-3AC9082D10FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA658E4-A1A3-4AC9-8D6F-3AC9082D10FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCA658E4-A1A3-4AC9-8D6F-3AC9082D10FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA658E4-A1A3-4AC9-8D6F-3AC9082D10FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

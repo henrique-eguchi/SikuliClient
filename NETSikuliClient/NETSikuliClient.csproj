@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" DefaultTargets="Build">
+  <PropertyGroup>
+    <ProjectGuid>{77ABFEEC-B4CD-43A5-9D7F-D9C7A281CFC0}</ProjectGuid>
+    <ProjectTypeGuids>{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <OutputType>Library</OutputType>
+    <RootNamespace>NETSikuliClient</RootNamespace>
+    <AssemblyName>NETSikuliClient</AssemblyName>
+    <TargetFrameworkVersion>v4.5.1</TargetFrameworkVersion>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <DebugSymbols>True</DebugSymbols>
+    <DebugType>Full</DebugType>
+    <Optimize>False</Optimize>
+    <CheckForOverflowUnderflow>True</CheckForOverflowUnderflow>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <DebugSymbols>False</DebugSymbols>
+    <DebugType>None</DebugType>
+    <Optimize>True</Optimize>
+    <CheckForOverflowUnderflow>False</CheckForOverflowUnderflow>
+    <DefineConstants>TRACE</DefineConstants>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=6.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\Newtonsoft.Json.6.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Sikuli_JSON\json_Click.cs" />
+    <Compile Include="Sikuli_JSON\json_DragDrop.cs" />
+    <Compile Include="Sikuli_JSON\json_Exists.cs" />
+    <Compile Include="Sikuli_JSON\json_Find.cs" />
+    <Compile Include="Sikuli_JSON\json_Pattern.cs" />
+    <Compile Include="Sikuli_JSON\json_Result.cs" />
+    <Compile Include="Sikuli_JSON\json_Type.cs" />
+    <Compile Include="Sikuli_JSON\json_Wait.cs" />
+    <Compile Include="Sikuli_JSON\json_WaitVanish.cs" />
+    <Compile Include="Sikuli_REST\ActionLog.cs" />
+    <Compile Include="Sikuli_REST\Key.cs" />
+    <Compile Include="Sikuli_REST\KeyModifier.cs" />
+    <Compile Include="Sikuli_REST\Pattern.cs" />
+    <Compile Include="Sikuli_REST\Screen.cs" />
+    <Compile Include="Sikuli_UTIL\ActionResult.cs" />
+    <Compile Include="Sikuli_UTIL\APILauncher.cs" />
+    <Compile Include="Sikuli_UTIL\SikuliActionException.cs" />
+    <Compile Include="Sikuli_UTIL\Util.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="dlls\JNI.dll" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,1 @@
+:::Making Request to Service: http://localhost:9000/sikuli/api/find POST: {"jPattern":{"imagePath":"C:\\Users\\simet\\workspace\\sikuli-remote-control-master\\sikuli-remote-control-master\\sikuli-remote-client\\src\\test\\resources\\image\\startwin10.png","offset_x":0,"offset_y":0,"similar":0.7},"highlight":true}:::

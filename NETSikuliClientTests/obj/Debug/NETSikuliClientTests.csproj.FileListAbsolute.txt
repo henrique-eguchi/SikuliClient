@@ -1,0 +1,16 @@
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\NETSikuliClientTests\obj\Debug\NETSikuliClientTests.csprojResolveAssemblyReference.cache
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\NETSikuliClientTests\bin\Debug\BrowserBar.png
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\NETSikuliClientTests\bin\Debug\SikuliFavoriteIcon.png
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\NETSikuliClientTests\bin\Debug\SikuliIcon.png
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\NETSikuliClientTests\bin\Debug\ChromeIcon.png
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\NETSikuliClientTests\bin\Debug\ChromeJumpList.png
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\NETSikuliClientTests\bin\Debug\CloseChrome.png
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\NETSikuliClientTests\bin\Debug\NETSikuliClient.dll
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\NETSikuliClientTests\bin\Debug\NETSikuliClient.pdb
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\NETSikuliClientTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\NETSikuliClientTests\bin\Debug\nunit.framework.dll
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\NETSikuliClientTests\bin\Debug\Newtonsoft.Json.dll
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\NETSikuliClientTests\bin\Debug\nunit.framework.xml
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\NETSikuliClientTests\bin\Debug\Newtonsoft.Json.xml
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\NETSikuliClientTests\obj\Debug\NETSikuliClient.dll
+C:\Automacao\S-WEB-PORTAL-AUTOMACAO\Sikuli4Net\NETSikuliClientTests\obj\Debug\NETSikuliClient.pdb
