@@ -13,4 +13,4 @@ Reference the NETSikuliClient.dll to your .NET application and do the following:
   s.Click(p, true);
 ```
 
-Note: If a Sikuli Server is not running on the given IP and PORT, the application will not work.
+Note: If a SikuliServer is not running on the given IP and PORT, the application will not work.
