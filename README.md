@@ -1,5 +1,5 @@
 # SikuliClient
-.NET wrapper of Sikuli to send commands remotely to the SikuliServer. Based on Sikuli4Net [https://sourceforge.net/projects/sikuli4net/] project.
+.NET wrapper of Sikuli to send commands remotely to the SikuliServer. Based on Sikuli4Net https://sourceforge.net/projects/sikuli4net/ project.
 
 
 ## Usage
@@ -13,4 +13,4 @@ Reference the NETSikuliClient.dll to your .NET application and do the following:
   s.Click(p, true);
 ```
 
-Note: If there is not a Sikuli Server running on the given IP and PORT, the application will throw an exception.
+Note: If a Sikuli Server is not running on the given IP and PORT, the application will not work.
